@@ -1,0 +1,696 @@
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\appsettings.Development.json
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\appsettings.json
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\School.staticwebassets.endpoints.json
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\School.exe
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\School.deps.json
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\School.runtimeconfig.json
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\School.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\School.pdb
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Azure.Core.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Azure.Identity.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Humanizer.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.ClientModel.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.CodeDom.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Memory.Data.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Text.Json.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\اشيائي\1- iti\Api project\School\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.csproj.AssemblyReference.cache
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.AssemblyInfoInputs.cache
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.AssemblyInfo.cs
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.csproj.CoreCompileInputs.cache
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cs
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cache
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\scopedcss\bundle\School.styles.css
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets.build.json
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets.development.json
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets\msbuild.build.School.props
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.School.props
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets.pack.json
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.csproj.Up2Date
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.dll
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\refint\School.dll
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.pdb
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\School.genruntimeconfig.cache
+E:\اشيائي\1- iti\Api project\School\School\obj\Debug\net9.0\ref\School.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\appsettings.Development.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\appsettings.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.staticwebassets.endpoints.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.exe
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.deps.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.runtimeconfig.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.pdb
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\AutoMapper.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Azure.Core.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Azure.Identity.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Humanizer.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.ClientModel.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.CodeDom.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Memory.Data.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Text.Json.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.csproj.AssemblyReference.cache
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.AssemblyInfoInputs.cache
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.AssemblyInfo.cs
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.csproj.CoreCompileInputs.cache
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cs
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cache
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\scopedcss\bundle\School.styles.css
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.build.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.development.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.build.School.props
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.School.props
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.pack.json
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.csproj.Up2Date
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\refint\School.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.pdb
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.genruntimeconfig.cache
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\ref\School.dll
+E:\اشيائي\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.sourcelink.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\appsettings.Development.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\appsettings.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.staticwebassets.endpoints.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.exe
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.deps.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.runtimeconfig.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\School.pdb
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\AutoMapper.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Azure.Core.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Azure.Identity.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Humanizer.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.ClientModel.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.CodeDom.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Text.Json.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.csproj.AssemblyReference.cache
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.AssemblyInfoInputs.cache
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.AssemblyInfo.cs
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.csproj.CoreCompileInputs.cache
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cs
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cache
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.sourcelink.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\scopedcss\bundle\School.styles.css
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.build.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.development.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.build.School.props
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.School.props
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.csproj.Up2Date
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\refint\School.dll
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.pdb
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\School.genruntimeconfig.cache
+E:\Safiya\1- iti\Api project\SchoolMangementSystem\School\obj\Debug\net9.0\ref\School.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\appsettings.Development.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\appsettings.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\School.staticwebassets.endpoints.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\School.exe
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\School.deps.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\School.runtimeconfig.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\School.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\School.pdb
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\AutoMapper.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Azure.Core.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Azure.Identity.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Humanizer.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.ClientModel.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.CodeDom.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Text.Json.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.csproj.AssemblyReference.cache
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.AssemblyInfoInputs.cache
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.AssemblyInfo.cs
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.csproj.CoreCompileInputs.cache
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cs
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.MvcApplicationPartsAssemblyInfo.cache
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\scopedcss\bundle\School.styles.css
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets.build.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets.development.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets\msbuild.build.School.props
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.School.props
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.csproj.Up2Date
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\refint\School.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.pdb
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.genruntimeconfig.cache
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\ref\School.dll
