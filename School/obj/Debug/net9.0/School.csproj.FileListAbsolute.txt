@@ -694,3 +694,4 @@ E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\
 E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.pdb
 E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.genruntimeconfig.cache
 E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\ref\School.dll
+E:\Safiya\1- iti\Api Project 2\School Management System\School\obj\Debug\net9.0\School.sourcelink.json
