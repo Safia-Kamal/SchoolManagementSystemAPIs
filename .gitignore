@@ -1,0 +1,28 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Visual Studio files
+.vscode/
+.vs/
+.idea/
+
+# ASP.NET Environment files
+appsettings.Development.json
+appsettings.*.json
+
+# Publish output
+publish/
